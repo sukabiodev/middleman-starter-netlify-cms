@@ -1,12 +1,15 @@
-section.products
-section.hero style=background_image(image_path(data.pages.home.hero.image))
+---
+title: Kaldi - Middleman + Netlify CMS Example
+---
+  
+section.hero style=background_image(image_path(data.pages.about.hero.image))
   .caption
     .row
-      h1 = data.pages.home.hero.title
+      h1 = data.pages.about.hero.title
 
 section.homepage-story
   .container
     .row
       .story-content
-        = markdown data.pages.home.story
+        = markdown data.pages.about.story
 
