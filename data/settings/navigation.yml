@@ -1,5 +1,6 @@
 nav_items: 
   - {label: 'Home', path: '/'}
   - {label: 'Products', path: '/products/'}
+  - {label: 'About', path: '/about'}
   - {label: 'News', path: '/news'}
 
