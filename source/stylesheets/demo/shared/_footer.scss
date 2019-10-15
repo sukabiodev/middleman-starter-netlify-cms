@@ -12,7 +12,8 @@ footer {
       a {
         color: #fff;
         &:hover,
-        &:focus {
+        &:focus,
+        &.active {
           color: $text-color;
         }
       }
