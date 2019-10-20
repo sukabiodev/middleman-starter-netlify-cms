@@ -12,6 +12,17 @@ section.homepage-story
     .row
       .story-content
         = markdown data.pages.home.story
+section.homepage-products.products
+  .container
+    h2
+      | Tiles
+    .row
+      //product is structured: ['filename', 'data']
+      //sort by newest product
+      - data.tiles.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | tile |
+
+        //to get the actual data:
+        = partial 'partials/tiles/tile', locals: {tile: tile[1]}
 
 section.homepage-products.products
   .container

@@ -1,11 +1,11 @@
 //link to product by converting the title to a slug
 .product
-  = link_to '/product/' + product.title.parameterize + '/'
+  = link_to '/tile/' + tile.title.parameterize + '/'
     .product-image
-      = image_tag product.image
+      = image_tag tile.image
     .product-content
       .title
-        h3 = product.title
+        h3 = tile.title
       / .price
       /   p
       /     - currency = data.settings.units.currency || '€'
@@ -13,4 +13,4 @@
       .weight
         p 
           - weight = data.settings.units.weight || 'cm'
-          = product.weight.to_s
+          = tile.weight.to_s
