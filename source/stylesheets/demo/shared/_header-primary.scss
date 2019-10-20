@@ -9,6 +9,11 @@
   .logo {
     width: 290px;
     height: 100px;
+
+    footer & {
+      height: 70px;
+      width: 203px;
+    }
     a {
       display: block;
       padding: 10px;
@@ -26,6 +31,10 @@
     position: absolute;
     top: 40px;
     right: 15px;
+
+    footer &{
+      top: 30px;
+    }
     li {
       display: inline-block;
       margin: 0 15px;

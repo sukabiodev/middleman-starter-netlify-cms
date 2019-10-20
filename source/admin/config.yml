@@ -20,8 +20,8 @@ collections:
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Image, name: image, widget: image, required: true}
 
-      - {label: Weight, name: weight, widget: number}
-      - {label: Price, name: price, widget: number}
+      - {label: Size, name: weight, widget: string}
+#      - {label: Price, name: price, widget: number}
       - {label: Body, name: body, widget: markdown}
 
 #markdown middleman blog example
@@ -92,8 +92,8 @@ collections:
             options: ['€', '$', '£']
             default: '€'
 
-          - label: Weight
+          - label: Size
             name: weight
             widget: select
-            options: ['kg', ' st', ' lb']
-            default: 'kg'
+            options: ['cm', ' mm']
+            default: 'cm'
