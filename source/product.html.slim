@@ -9,7 +9,7 @@
         span = product.weight.to_s
 
       .price
-        - currency = data.settings.units.currency || '€'
+        - currency = data.settings.units.currency || '$'
         span = currency + product.price.to_s
 
     .body
