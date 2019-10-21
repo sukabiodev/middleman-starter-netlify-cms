@@ -4,7 +4,10 @@ body {
   text-rendering: optimizeLegibility;
   color: $text-color;
 }
-
+@font-face {
+  font-family: heading-font;
+  src: url("../../../fonts/acherus_militant_1_-_bold.otf") format("opentype");
+}
 p {
   font-size: 18px;
   line-height: 28px;
@@ -12,10 +15,13 @@ p {
 
 h1, h2, h3 {
   line-height: 1.2;
+  font-family: heading-font;
 }
+
 h1 {
   font-size: 64px;
   font-weight: 700;
+
 }
 
 
