@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/partials/shared/_footer.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/partials/shared/_footer.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/about.html.slim" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +35,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/partials/shared/_footer.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="399">
               <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/about.html.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -68,7 +77,6 @@
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_header-primary.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_footer.scss" />
         <option value="$PROJECT_DIR$/source/layouts/_meta.slim" />
-        <option value="$PROJECT_DIR$/source/about.html.slim" />
         <option value="$PROJECT_DIR$/source/partials/tiles/_tile.slim" />
         <option value="$PROJECT_DIR$/source/tile.html.slim" />
         <option value="$PROJECT_DIR$/source/tiles.html.slim" />
@@ -77,6 +85,7 @@
         <option value="$PROJECT_DIR$/source/partials/products/_product.slim" />
         <option value="$PROJECT_DIR$/source/admin/config.yml" />
         <option value="$PROJECT_DIR$/source/partials/shared/_footer.slim" />
+        <option value="$PROJECT_DIR$/source/about.html.slim" />
       </list>
     </option>
   </component>
@@ -211,12 +220,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
-      <workItem from="1571085039881" duration="10111000" />
+      <workItem from="1571085039881" duration="10299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10111000" />
+    <option name="totallyTimeSpent" value="10299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="59" width="1440" height="761" extended-state="0" />
@@ -342,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/about.html.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/layouts/_meta.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -440,8 +442,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/partials/shared/_footer.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="399">
           <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about.html.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
