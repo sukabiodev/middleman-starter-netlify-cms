@@ -13,9 +13,25 @@
     @extend %product;
   }
 
+  &.tiles-grid{
+
+    .product {
+      width: 50%;
+    }
+
+  }
+
   @media screen and (max-width: $screen-xs-max) {
     padding-top: 15px;
     padding-bottom: 15px;
+
+    &.tiles-grid{
+
+      .product {
+        width: 100%;
+      }
+
+    }
 
     h2 {
       margin: 0 0 15px;
