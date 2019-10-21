@@ -6,4 +6,4 @@ nav_items:
   - label: About
     path: /about
   - label: Projects
-    path: /projects
+    path: /news
