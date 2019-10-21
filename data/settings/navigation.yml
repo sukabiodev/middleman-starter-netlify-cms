@@ -1,9 +1,9 @@
 nav_items:
   - label: Home
     path: /
-  - label: Products
-    path: /products/
   - label: About
     path: /about
+  - label: Products
+    path: /products/
   - label: Projects
     path: /news
