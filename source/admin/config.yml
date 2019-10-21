@@ -21,24 +21,7 @@ collections:
       - {label: Image, name: image, widget: image, required: true}
 
       - {label: Size, name: weight, widget: string}
-#      - {label: Price, name: price, widget: number}
-      - {label: Body, name: body, widget: markdown}
-
-  #yaml middleman data example
-  - name: tile
-    label: Tile
-    format: yml
-    extension: yml
-    folder: data/tiles/
-    create: true
-    slug: '{{title}}'
-    fields:
-      - {label: Title, name: title, widget: string, required: true}
-      - {label: Publish Date, name: date, widget: datetime}
-      - {label: Image, name: image, widget: image, required: true}
-
-      - {label: Size, name: weight, widget: string}
-      #      - {label: Price, name: price, widget: number}
+      - {label: Price, name: price, widget: number}
       - {label: Body, name: body, widget: markdown}
 
 #markdown middleman blog example
@@ -103,11 +86,11 @@ collections:
         label: Units
         name: units
         fields:
-#          - label: Currency
-#            name: currency
-#            widget: select
-#            options: ['€', '$', '£']
-#            default: '€'
+          - label: Currency
+            name: currency
+            widget: select
+            options: ['€', '$', '£']
+            default: '€'
 
           - label: Size
             name: weight

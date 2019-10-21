@@ -6,10 +6,10 @@
     .product-content
       .title
         h3 = product.title
-      / .price
-      /   p
-      /     - currency = data.settings.units.currency || '€'
-      /     = currency + product.price.to_s
+      .price
+        p
+          - currency = data.settings.units.currency || '€'
+          = currency + product.price.to_s
       .weight
         p 
           - weight = data.settings.units.weight || 'cm'
