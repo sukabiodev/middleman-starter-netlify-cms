@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/partials/products/_product.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/partials/products/_product.slim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/product.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/product.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/partials/products/_product.slim">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -104,6 +111,7 @@
         <option value="$PROJECT_DIR$/source/admin/config.yml" />
         <option value="$PROJECT_DIR$/source/product.html.slim" />
         <option value="$PROJECT_DIR$/source/partials/products/_product.slim" />
+        <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss" />
       </list>
     </option>
   </component>
@@ -184,6 +192,27 @@
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="suakabio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suakabio" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suakabio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suakabio" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suakabio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suakabio" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
-      <workItem from="1571085039881" duration="12764000" />
+      <workItem from="1571085039881" duration="12890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12764000" />
+    <option name="totallyTimeSpent" value="12890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="59" width="1440" height="761" extended-state="0" />
@@ -467,6 +496,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
