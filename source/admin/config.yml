@@ -20,8 +20,8 @@ collections:
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Image, name: image, widget: image, required: true}
 
-      - {label: Size, name: weight, widget: string}
-      - {label: Price, name: price, widget: string}
+      - {label: Size, name: weight, widget: string, required: false}
+      - {label: Price, name: price, widget: string, required: false}
       - {label: Body, name: body, widget: markdown}
 
 #markdown middleman blog example
