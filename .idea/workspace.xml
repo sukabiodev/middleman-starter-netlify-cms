@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -125,7 +133,6 @@
         <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_header-primary.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_products.scss" />
-        <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" />
         <option value="$PROJECT_DIR$/source/about.html.slim" />
         <option value="$PROJECT_DIR$/source/product.html.slim" />
         <option value="$PROJECT_DIR$/source/admin/config.yml" />
@@ -136,6 +143,7 @@
         <option value="$PROJECT_DIR$/source/stylesheets/demo/homepage/_story.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/base/_colors.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" />
+        <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" />
       </list>
     </option>
   </component>
@@ -279,12 +287,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
-      <workItem from="1571085039881" duration="22952000" />
+      <workItem from="1571085039881" duration="23111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22952000" />
+    <option name="totallyTimeSpent" value="23111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="43" width="1440" height="761" extended-state="0" />
@@ -464,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/about.html.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -573,6 +574,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
         </state>
       </provider>
     </entry>
