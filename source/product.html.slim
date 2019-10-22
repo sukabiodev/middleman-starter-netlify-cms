@@ -1,5 +1,6 @@
 .product-detail
-  .image style=background_image(image_path(product.image))
+  .image
+    = image_tag product.image
   .content
     .meta
       h1 = product.title
