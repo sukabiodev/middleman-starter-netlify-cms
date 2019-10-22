@@ -4,3 +4,45 @@
     margin-top: 90px;
   }
 }
+
+.about-wrap {
+
+  @media screen and (min-width: $screen-sm){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.about-image {
+  padding:10px 0;
+  text-align: center;
+  @media screen and (min-width: $screen-sm){
+    padding: 40px 0;
+    min-width: 400px;
+  }
+}
+
+.about-content{
+  padding: 0 30px;
+  @media screen and (min-width: $screen-sm){
+    padding: 50px;
+  }
+
+  h2 {
+    font-size: 42px;
+    color: $primary-color;
+    font-weight: bold;
+    margin-bottom: 25px;
+  }
+
+  p {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+
+}
+
+.img-responsive {
+  max-width: 100%;
+}
