@@ -29,7 +29,9 @@
   @media screen and (max-width: $screen-xs-max) {
     padding-top: 15px;
     padding-bottom: 15px;
-
+    .tiles-grid-row {
+      flex-direction: column;
+    }
     &.tiles-grid{
 
       .product {
