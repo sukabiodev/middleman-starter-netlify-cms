@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="437">
+              <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+            <state relative-caret-position="219">
+              <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -133,8 +133,8 @@
         <option value="$PROJECT_DIR$/source/stylesheets/demo/homepage/_story.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/base/_colors.scss" />
         <option value="$PROJECT_DIR$/source/product.html.slim" />
-        <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" />
+        <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" />
       </list>
     </option>
   </component>
@@ -286,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
-      <workItem from="1571085039881" duration="24319000" />
+      <workItem from="1571085039881" duration="24470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24319000" />
+    <option name="totallyTimeSpent" value="24470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1818" y="190" width="1440" height="761" extended-state="0" />
@@ -569,17 +569,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        <state relative-caret-position="437">
+          <caret line="42" column="4" lean-forward="true" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss">
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="219">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
