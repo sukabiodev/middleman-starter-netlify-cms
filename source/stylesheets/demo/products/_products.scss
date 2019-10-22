@@ -17,8 +17,13 @@
 
     .product {
       width: 50%;
+      height: 100%;
     }
 
+  }
+
+  .tiles-grid-row {
+    display: flex;
   }
 
   @media screen and (max-width: $screen-xs-max) {
