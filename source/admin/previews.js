@@ -60,7 +60,6 @@ const HomePreview = ({ entry, widgetFor }) => {
           </div>
         </div>
       </section>
-    <div className="row content">{widgetFor('body')}</div>
     </div>
   )
 }
