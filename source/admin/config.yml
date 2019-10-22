@@ -55,9 +55,7 @@ collections:
           - label: Story
             name: story
             widget: markdown
-          - label: Body
-            name: body
-            widget: markdown
+
       - file: "data/pages/about.yml"
         label: About
         name: about
