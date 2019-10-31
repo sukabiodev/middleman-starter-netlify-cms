@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/admin/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/contact.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/contact.html.slim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/partials/shared/_header-primary.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/partials/shared/_header-primary.slim" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+            <state relative-caret-position="579">
+              <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -249,12 +246,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
       <workItem from="1571085039881" duration="24776000" />
-      <workItem from="1572510514454" duration="2693000" />
+      <workItem from="1572510514454" duration="2777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27469000" />
+    <option name="totallyTimeSpent" value="27553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/admin/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="72" column="33" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+        <state relative-caret-position="579">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
         </state>
       </provider>
     </entry>

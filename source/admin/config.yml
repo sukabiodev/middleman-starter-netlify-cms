@@ -71,18 +71,18 @@ collections:
             widget: markdown
 
       - file: "data/pages/contact.yml"
-          label: About
-          name: about
-          fields:
-            - label: Hero
-              name: hero
-              widget: object
-              fields:
-                - {label: Title, name: title, widget: string}
-                - {label: Image, name: image, widget: image}
-            - label: Story
-              name: story
-              widget: markdown
+        label: About
+        name: about
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
 
   - name: settings
     label: Settings
