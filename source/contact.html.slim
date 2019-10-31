@@ -1,27 +1,27 @@
 ---
-title: SUKABIO - Contact Us - SUKABIO Natural stones
+title: SUKABIO - Contact - SUKABIO Natural stones
 ---
 
-/ section.hero style=background_image(image_path(data.pages.contact.hero.image))
-/   .caption
-/     .row
+section.hero style=background_image(image_path(data.pages.contact.hero.image))
+  .caption
+    .row
 
-/
-/ section.homepage-story
-/   .container
-/     .row
-/       .story-content
-/         h1 = data.pages.contact.header
-/         = markdown data.pages.contact.story
 
-/ section.homepage-products.products
-/   .container
-/     h2
-/       | Products
-/     .row
-/       //product is structured: ['filename', 'data']
-/       //sort by newest product
-/       - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | product |
-/
-/         //to get the actual data:
-/         = partial 'partials/products/product', locals: {product: product[1]}
+section.homepage-story
+  .container
+    .row
+      .story-content
+        h1 = data.pages.contact.hero.title
+        = markdown data.pages.contact.story
+
+section.homepage-products.products
+  .container
+    h2
+      | Products
+    .row
+      //product is structured: ['filename', 'data']
+      //sort by newest product
+      - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | product |
+
+        //to get the actual data:
+        = partial 'partials/products/product', locals: {product: product[1]}
