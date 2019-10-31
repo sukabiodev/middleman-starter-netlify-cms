@@ -7,7 +7,8 @@
 
       .weight
         - weight = data.settings.units.weight || 'cm'
-        span = product.weight.to_s
+        - more = '<span class="more__sizes"><br> * for more sizes contact us</span>'
+        span = product.weight.to_s + more
 
       .price
         - currency = data.settings.units.currency || '$'

@@ -10,7 +10,8 @@
       /   p
       /     - currency = data.settings.units.currency || '€'
       /     = product.price.to_s
-      / .weight
-      /   p
-      /     - weight = data.settings.units.weight || 'cm'
-      /     = product.weight.to_s
+      .weight
+        p
+          - weight = data.settings.units.weight || 'cm'
+          - more = '<span class="more__sizes"><br> * for more sizes contact us</span>'
+          = product.weight.to_s + more
