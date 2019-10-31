@@ -7,3 +7,5 @@ nav_items:
     path: /products/
   - label: Projects
     path: /news
+  - label: Contact
+    path: /contact
