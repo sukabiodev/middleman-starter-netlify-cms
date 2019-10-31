@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+$body-font: 'Open Sans Condensed', sans-serif;
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  font-family: $body-font;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   color: $text-color;
 }
+
 @font-face {
   font-family: heading-font;
   src: url("../../../fonts/acherus_militant_1_-_bold.otf") format("opentype");
