@@ -71,8 +71,8 @@ collections:
             widget: markdown
 
       - file: "data/pages/contact.yml"
-        label: About
-        name: about
+        label: Contact
+        name: contact
         fields:
           - label: Hero
             name: hero
