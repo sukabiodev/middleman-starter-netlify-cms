@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/layouts/_meta.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/layouts/_meta.slim" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.html.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="20" column="185" selection-start-line="20" selection-start-column="185" selection-end-line="20" selection-end-column="185" />
+            <state relative-caret-position="298">
+              <caret line="20" column="196" lean-forward="true" selection-start-line="20" selection-start-column="196" selection-end-line="20" selection-end-column="196" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/layouts/_meta.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -85,15 +94,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/base/_colors.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/shared/_header-primary.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1007">
@@ -107,6 +107,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>logo.</find>
+      <find>Sukabio</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/source</dir>
@@ -126,7 +127,6 @@
         <option value="$PROJECT_DIR$/source/tiles.html.slim" />
         <option value="$PROJECT_DIR$/source/partials/shared/_footer.slim" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/homepage/_hero.scss" />
-        <option value="$PROJECT_DIR$/source/layouts/_meta.slim" />
         <option value="$PROJECT_DIR$/source/products.html.slim" />
         <option value="$PROJECT_DIR$/source/news.html.slim" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product.scss" />
@@ -145,6 +145,7 @@
         <option value="$PROJECT_DIR$/source/admin/config.yml" />
         <option value="$PROJECT_DIR$/source/contact.html.slim" />
         <option value="$PROJECT_DIR$/source/index.html.slim" />
+        <option value="$PROJECT_DIR$/source/layouts/_meta.slim" />
       </list>
     </option>
   </component>
@@ -264,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
       <workItem from="1571085039881" duration="24776000" />
-      <workItem from="1572510514454" duration="3587000" />
+      <workItem from="1572510514454" duration="3672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28363000" />
+    <option name="totallyTimeSpent" value="28448000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -380,13 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/_meta.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -552,8 +546,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="185" selection-start-line="20" selection-start-column="185" selection-end-line="20" selection-end-column="185" />
+        <state relative-caret-position="298">
+          <caret line="20" column="196" lean-forward="true" selection-start-line="20" selection-start-column="196" selection-end-line="20" selection-end-column="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/_meta.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
