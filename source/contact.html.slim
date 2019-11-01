@@ -7,15 +7,18 @@ title: SUKABIO - Contact - SUKABIO Natural stones
 /     .row
 
 
-section.contact-story
+section.about-story
   .container
     .row
-      .story-image style=background_image(image_path(data.pages.about.hero.image))
-      .story-content
-        h1 = data.pages.contact.hero.title
-        = markdown data.pages.contact.story
+      .about-wrap
+        .about-image
+          = image_tag data.pages.contact.hero.image
+        .about-content
+          h2 =  data.pages.contact.hero.title
+          = markdown data.pages.contact.story
 
-/ section.homepage-products.products
+
+          / section.homepage-products.products
 /   .container
 /     h2
 /       | Products
