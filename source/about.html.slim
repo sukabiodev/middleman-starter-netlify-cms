@@ -14,14 +14,24 @@ section.homepage-story
         h1 = data.pages.about.hero.title
         = markdown data.pages.about.story
 
-section.homepage-products.products
+section.about-story
   .container
-    h2
-      | Products
     .row
-      //product is structured: ['filename', 'data']
-      //sort by newest product
-      - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | product |
+      .about-wrap
+        .about-image
+          = image_tag data.pages.about.bodyimagehero.bodyimage
+        .about-content
+          h2 =  data.pages.about.bodyimagehero.titleimage
+          = markdown data.pages.about.body
 
-        //to get the actual data:
-        = partial 'partials/products/product', locals: {product: product[1]}
+/ section.homepage-products.products
+/   .container
+/     h2
+/       | Products
+/     .row
+/       //product is structured: ['filename', 'data']
+/       //sort by newest product
+/       - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | product |
+/
+/         //to get the actual data:
+/         = partial 'partials/products/product', locals: {product: product[1]}
