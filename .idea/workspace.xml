@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/pages/about.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/about.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/about.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.html.slim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,26 +44,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/about.html.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="21" column="21" selection-start-line="21" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.html.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+            <state relative-caret-position="333">
+              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="77" />
+              <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="77" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="77" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="77" />
+              <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="77" />
+              <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="77" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="77" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="77" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="77" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="77" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/index.html.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/pages/about.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -111,17 +132,17 @@
         <option value="$PROJECT_DIR$/source/partials/products/_product.slim" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss" />
         <option value="$PROJECT_DIR$/source/product.html.slim" />
-        <option value="$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss" />
         <option value="$PROJECT_DIR$/source/partials/shared/_header-primary.slim" />
         <option value="$PROJECT_DIR$/source/layouts/_meta.slim" />
         <option value="$PROJECT_DIR$/data/pages/contact.yml" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" />
         <option value="$PROJECT_DIR$/source/contact.html.slim" />
         <option value="$PROJECT_DIR$/source/admin/config.yml" />
-        <option value="$PROJECT_DIR$/source/about.html.slim" />
         <option value="$PROJECT_DIR$/data/pages/home.yml" />
-        <option value="$PROJECT_DIR$/source/index.html.slim" />
         <option value="$PROJECT_DIR$/data/pages/about.yml" />
+        <option value="$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss" />
+        <option value="$PROJECT_DIR$/source/about.html.slim" />
+        <option value="$PROJECT_DIR$/source/index.html.slim" />
       </list>
     </option>
   </component>
@@ -287,12 +308,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
       <workItem from="1571085039881" duration="24776000" />
-      <workItem from="1572510514454" duration="6129000" />
+      <workItem from="1572510514454" duration="6579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30905000" />
+    <option name="totallyTimeSpent" value="31355000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,13 +511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/products/_product-detail.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
@@ -570,24 +584,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/pages/about.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/about.html.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="21" column="21" selection-start-line="21" selection-end-line="22" />
+        <state relative-caret-position="333">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="77" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="77" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="77" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="77" />
+          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="77" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="77" />
+          <caret line="30" selection-start-line="30" selection-end-line="30" selection-end-column="77" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="77" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="77" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="77" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/index.html.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/pages/about.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="341">
+          <caret line="33" column="87" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
         </state>
       </provider>
     </entry>
