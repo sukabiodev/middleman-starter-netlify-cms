@@ -55,6 +55,15 @@ collections:
           - label: Story
             name: story
             widget: markdown
+          - label: Body Image hero
+            name: bodyimagehero
+            widget: object
+            fields:
+              - {label: Title, name: titleimage, widget: string}
+              - {label: Body Image, name: bodyimage, widget: image}
+          - label: Body
+            name: body
+            widget: markdown
 
       - file: "data/pages/about.yml"
         label: About
@@ -70,11 +79,11 @@ collections:
             name: story
             widget: markdown
           - label: Body Image hero
-              name: bodyimagehero
-              widget: object
-              fields:
-                - {label: Title, name: titleimage, widget: string}
-                - {label: Body Image, name: bodyimage, widget: image}
+            name: bodyimagehero
+            widget: object
+            fields:
+              - {label: Title, name: titleimage, widget: string}
+              - {label: Body Image, name: bodyimage, widget: image}
           - label: Body
             name: body
             widget: markdown
