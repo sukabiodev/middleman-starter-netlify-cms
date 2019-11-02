@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4930722-c548-4aaa-bdf1-2777ea9d3c30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/source/contact.html.slim" beforeDir="false" afterPath="$PROJECT_DIR$/source/contact.html.slim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/pages/about.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/pages/about.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="226">
               <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/pages/about.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -88,10 +96,10 @@
         <option value="$PROJECT_DIR$/source/about.html.slim" />
         <option value="$PROJECT_DIR$/source/index.html.slim" />
         <option value="$PROJECT_DIR$/data/pages/contact.yml" />
-        <option value="$PROJECT_DIR$/data/pages/about.yml" />
         <option value="$PROJECT_DIR$/source/admin/config.yml" />
         <option value="$PROJECT_DIR$/source/contact.html.slim" />
         <option value="$PROJECT_DIR$/source/stylesheets/demo/shared/_main-content.scss" />
+        <option value="$PROJECT_DIR$/data/pages/about.yml" />
       </list>
     </option>
   </component>
@@ -257,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571085038595</updated>
       <workItem from="1571085039881" duration="24776000" />
-      <workItem from="1572510514454" duration="8310000" />
+      <workItem from="1572510514454" duration="8577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33086000" />
+    <option name="totallyTimeSpent" value="33353000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,13 +534,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/pages/about.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/admin/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -568,6 +569,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/pages/about.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
